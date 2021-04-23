@@ -72,3 +72,11 @@ http://crytek.com/sites/default/files/20100301_lpv.pdf
 
 lavadragon-busterdrone v-u (CC BY 4.0) 
 Buster Drone by LaVADraGoN, published under a [Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/) license
+
+# Brutalism scene (MIT plus CC0)
+
+Majority created by AMD and published under the MIT license, certain assets licensed as [CC0](https://creativecommons.org/publicdomain/zero/1.0/). See below.
+
+## Brutalism assets licensed as CC0
+- `Brutalism/SchoolChair_01_8-bit_1k_*` in the tree
+- `Brutalism/WetFloorSign_01_1k_8-bit_*` in the tree
