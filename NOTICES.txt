@@ -68,7 +68,3 @@ However, nowadays it is considered as a simple model, thus it was decided to cra
  
 Screenshot from the I3D paper 
 http://crytek.com/sites/default/files/20100301_lpv.pdf 
-
-
-lavadragon-busterdrone v-u (CC BY 4.0) 
-Buster Drone by LaVADraGoN, published under a [Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/) license
